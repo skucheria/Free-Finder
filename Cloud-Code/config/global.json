@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Free Finder": {
+      "applicationId": "sL3KqUdW7K6OEssVTEdsBa8euCmqPeCkNV3dxAqd",
+      "masterKey": "hDsw30qq64a3jBPqJ5RhGqbv3EOKzlC2fCXK5oLm"
+    },
+    "_default": {
+      "link": "Free Finder"
+    }
+  }
+}
